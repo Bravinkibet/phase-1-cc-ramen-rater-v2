@@ -28,5 +28,8 @@
     "@testing-library/dom": "^9.3.4",
     "happy-dom": "^13.2.1",
     "vitest": "^1.2.1"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.14.2"
   }
 }
